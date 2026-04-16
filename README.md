@@ -47,8 +47,9 @@ Este proyecto responde a tres metas de negocio fundamentales:
 cd backend
 npm install
 node server.js
-
+```
 ### 4.instalcion del Frontend
+```bash
 cd frontend
 npm install
 npm run dev
