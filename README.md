@@ -48,7 +48,7 @@ cd backend
 npm install
 node server.js
 
-## 4.instalcion del Frontend
+### 4.instalcion del Frontend
 cd frontend
 npm install
 npm run dev
